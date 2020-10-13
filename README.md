@@ -4,10 +4,10 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw?view_as=subscriber)
 
 ### About me:
-- I'm a Information Security student.
+- :game_die: I'm a Information Security student.
 - 💻 Join my [discord server](https://discord.gg/Pve2xbT) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/Slayyer-dev)
-- Hacking, Python, C == :heart:
+- :heart: Hacking, Python, C
 - :octocat: nc 192.168.0.3 21
 
 <!--

@@ -1,9 +1,13 @@
-### :man_technologist: Hi there, I'am \</Slayyer> 👋
+### :man_technologist: Hello, I'am \</Slayyer> 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Slayyer-dev)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw?view_as=subscriber)
+
 ### About me:
-- I'm a information security student.
+- I'm a Information Security student.
 - 💻 Join my [discord server](https://discord.gg/Pve2xbT) to talk about anything!
-- My projects is avaliable [here](https://github.com/Slayyer-dev)
-- [](https://camo.githubusercontent.com/6cb66240de22958f57b1beaf93581cfa041e8049/68747470733a2f2f6472742e73682f696d672f737572666163652d70726f2d726566696e642f6f735f6b616c692e706e67)
+- :shipit: My projects is avaliable [here](https://github.com/Slayyer-dev)
+- [![kali](https://camo.githubusercontent.com/6cb66240de22958f57b1beaf93581cfa041e8049/68747470733a2f2f6472742e73682f696d672f737572666163652d70726f2d726566696e642f6f735f6b616c692e706e67)
 
 <!--
 **Slayyer-dev/Slayyer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

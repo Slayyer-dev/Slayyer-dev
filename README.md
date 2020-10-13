@@ -1,6 +1,6 @@
 ### :man_technologist: Hi there, I'am \</Slayyer> 👋
-### About me
-I'm a information security student.
+### About me:
+- [What I Study] I'm a information security student.
 - [Discord](https://discord.gg/Pve2xbT) 💻 - Join my discord server to talk about anything!
 <!--
 **Slayyer-dev/Slayyer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

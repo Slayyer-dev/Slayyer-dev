@@ -7,7 +7,8 @@
 - I'm a Information Security student.
 - 💻 Join my [discord server](https://discord.gg/Pve2xbT) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/Slayyer-dev)
-- [![Kali](https://camo.githubusercontent.com/6cb66240de22958f57b1beaf93581cfa041e8049/68747470733a2f2f6472742e73682f696d672f737572666163652d70726f2d726566696e642f6f735f6b616c692e706e67)] ola
+- Hacking, Python, C == :heart:
+- :octocat: nc 192.168.0.3 21
 
 <!--
 **Slayyer-dev/Slayyer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

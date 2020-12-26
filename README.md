@@ -5,7 +5,7 @@
 
 ### About me:
 - :game_die: I'm a Information Security student.
-- 💻 Join my [discord server](https://discord.gg/Pve2xbT) to talk about anything!
+- 💻 Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/Slayyer-dev)
 - :heart: Hacking, Python, C
 - :octocat: nc 192.168.0.3 21

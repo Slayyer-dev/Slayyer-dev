@@ -1,20 +1,20 @@
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 </p>
 
-## :man_technologist: Hello, I'am \</Dantalion> 👋
+## :man_technologist: Hello, I'am \</Dantalion>, also known as \</Slayyer> 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Slayyer-dev)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw?view_as=subscriber)
 
 # About me:
-- :game_die: I'm a Information Security student.
+- :game_die: I'm a Offensive Security student.
 - 💻 Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/Dantalion-dev)
-- :heart: Hacking, Python, C
-- :octocat: nc 192.168.0.3 21
+- :books: Hacking, Linux, Python, C
+- :fish_cake: python3 -c "import pty;ptw.spawn('/bin/bash');"
 
 ```c
 #include <stdio.h>

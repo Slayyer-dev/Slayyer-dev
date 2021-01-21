@@ -5,7 +5,7 @@
 
 ## :man_technologist: Hello, I'am \</Dantalion>, also known as \</Slayyer> 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://data.whicdn.com/images/286687755/original.gif' width='200"'>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Slayyer-dev)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw?view_as=subscriber)
@@ -27,6 +27,7 @@ int main(void)
 {
   const char *discord = "https://discord.gg/v5d3PZ9"
   const char *twitter = "https://twitter.com/__dantalion_god?s=09"
+  const char *youtube = "https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw"
 }
 
 ```

@@ -3,14 +3,16 @@
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
-## :man_technologist: Hello, I'am \</Dantalion>, also known as \</Slayyer> 👋
+<h2 align="center">:man_technologist: Hello, I'am Dantalion, also known as Slayyer 👋</h2>
 
 <img align='right' src='https://data.whicdn.com/images/286687755/original.gif' width='200"'>
 
+<!--
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Slayyer-dev)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw?view_as=subscriber)
 [![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git)](https://git-scm.com/) 
-[![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
+[![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/) 
+-->
 
 # About me:
 - <img src="http://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-51.gif" width="20" height="25">&nbsp;&nbsp;I'm a Offensive Security student.

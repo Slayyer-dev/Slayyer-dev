@@ -19,7 +19,7 @@
 - <img src="https://media.giphy.com/media/CN8RJQ9PWBk5y/giphy.gif" width="20" height="25">&nbsp;&nbsp;My projects is avaliable [here](https://github.com/Dantalion-dev)
 - <img src="http://static.tumblr.com/df9d542bafc79acb5da56244ff58e4ea/dyb7ptk/plloy3ebg/tumblr_static_2eb7rsfw5728kc80w08og080.gif" width="20" height="20">&nbsp;&nbsp;Hacking, Linux, Python, C
 - <img src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444
-
+&nbsp; &nbsp;
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -31,9 +31,9 @@ int main(void)
 }
 
 ```
-
+&nbsp; &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>
-
+&nbsp; &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantalion-dev&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 
 <p align="center">

@@ -17,8 +17,8 @@
 - :game_die: I'm a Offensive Security student.
 - <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">&nbsp;&nbsp;Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/Dantalion-dev)
-- :books: Hacking, Linux, Python, C
-- " <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444
+-  <img src="http://static.tumblr.com/df9d542bafc79acb5da56244ff58e4ea/dyb7ptk/plloy3ebg/tumblr_static_2eb7rsfw5728kc80w08og080.gif" width="20" height="20">&nbsp;&nbsp;Hacking, Linux, Python, C
+- <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444
 
 ```c
 #include <stdio.h>

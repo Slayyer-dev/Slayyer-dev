@@ -15,7 +15,6 @@
 
 # About me:
 - <img src="https://i0.wp.com/raspa.caamouco.net/wp-content/uploads/2009/06/dado_girando.png" width="20" height="25">&nbsp;&nbsp;I'm a Offensive Security student.
-- <img src="https://discordemoji.com/assets/emoji/anirainbowblob.gif" width="20" height="25">&nbsp;&nbsp;Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
 - <img src="http://lh4.ggpht.com/_QFL-9aHGKOE/S-wGdMXTq-I/AAAAAAAACv0/AXPszztHrzI/sapo.gif" width="20" height="25">&nbsp;&nbsp;My projects is avaliable [here](https://github.com/Dantalion-dev)
 - <img src="http://static.tumblr.com/df9d542bafc79acb5da56244ff58e4ea/dyb7ptk/plloy3ebg/tumblr_static_2eb7rsfw5728kc80w08og080.gif" width="20" height="20">&nbsp;&nbsp;Hacking, Linux, Python, C
 - <img src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444

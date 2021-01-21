@@ -12,7 +12,6 @@
 [![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git)](https://git-scm.com/) 
 [![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
 
-
 # About me:
 - <img src="https://i0.wp.com/raspa.caamouco.net/wp-content/uploads/2009/06/dado_girando.png" width="20" height="25">&nbsp;&nbsp;I'm a Offensive Security student.
 - <img src="http://lh4.ggpht.com/_QFL-9aHGKOE/S-wGdMXTq-I/AAAAAAAACv0/AXPszztHrzI/sapo.gif" width="20" height="25">&nbsp;&nbsp;My projects is avaliable [here](https://github.com/Dantalion-dev)
@@ -30,7 +29,6 @@ int main(void)
 }
 
 ```
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>

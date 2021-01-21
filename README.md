@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"> 
+  <img src="http://24.media.tumblr.com/a8d91d9d6f197e126351464305f75dd7/tumblr_msitq5qMwW1sg2d49o1_1280.gif" width="50px"> 
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
@@ -15,10 +15,10 @@
 
 # About me:
 - :game_die: I'm a Offensive Security student.
-- 💻 Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
+- <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">&nbsp;&nbsp;Join my [discord server](https://discord.gg/v5d3PZ9) to talk about anything!
 - :shipit: My projects is avaliable [here](https://github.com/Dantalion-dev)
 - :books: Hacking, Linux, Python, C
-- :fish_cake: python3 -c "import pty;ptw.spawn('/bin/bash');"
+- " <img src="https://drt.sh/img/surface-pro-refind/os_kali.png" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444
 
 ```c
 #include <stdio.h>

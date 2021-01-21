@@ -32,10 +32,9 @@ int main(void)
 
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantalion-dev&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantalion-dev&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>

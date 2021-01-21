@@ -26,7 +26,7 @@
 int main(void)
 {
   const char *discord = "https://discord.gg/v5d3PZ9"
-  const char *twitter = "https://twitter.com/__dantalion_god?s=09"
+  const char *twitter = "https://twitter.com/dantaliondev"
   const char *youtube = "https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw"
 }
 
@@ -42,7 +42,7 @@ int main(void)
 </p>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/__dantalion_god">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/dantaliondev">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw">

@@ -3,7 +3,7 @@
   <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
 </p>
 
-<h2 align="center">:man_technologist: Hello, I'am Dantalion, also known as Slayyer 👋</h2>
+<h2 align="center">:man_technologist: Hello, I'am Dantalion, also known as Slayyer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <img align='right' src='https://data.whicdn.com/images/286687755/original.gif' width='200"'>
 
@@ -34,7 +34,7 @@ int main(void)
 &nbsp; &nbsp;
 
 <details>
-  <summary><img src="https://68.media.tumblr.com/9e4006b9f04a487dc59db1f330bb70c6/tumblr_moykw0Zr8p1sxql3bo1_500.gif" width="20" height="25">&nbsp;&nbsp; GitHub Stats</summary>
+  <summary><img src="https://68.media.tumblr.com/9e4006b9f04a487dc59db1f330bb70c6/tumblr_moykw0Zr8p1sxql3bo1_500.gif" width="20" height="25">&nbsp;&nbsp; <b>GITHUB STATS</b> </summary>
    
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>
 

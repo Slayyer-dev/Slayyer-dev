@@ -18,7 +18,7 @@
 - <img src="http://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-51.gif" width="20" height="25">&nbsp;&nbsp;I'm a Offensive Security student.
 - <img src="https://media.giphy.com/media/CN8RJQ9PWBk5y/giphy.gif" width="20" height="25">&nbsp;&nbsp;My projects is avaliable [here](https://github.com/Dantalion-dev)
 - <img src="http://static.tumblr.com/df9d542bafc79acb5da56244ff58e4ea/dyb7ptk/plloy3ebg/tumblr_static_2eb7rsfw5728kc80w08og080.gif" width="20" height="20">&nbsp;&nbsp;Hacking, Linux, Python, C
-- <img src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444
+- <img src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" width="20" height="20">&nbsp;&nbsp;root@kali~# nc -lvp 4444
 &nbsp; &nbsp;
 ```c
 #include <stdio.h>
@@ -33,12 +33,18 @@ int main(void)
 ```
 &nbsp; &nbsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>
+<details>
+  <summary><img src="https://68.media.tumblr.com/9e4006b9f04a487dc59db1f330bb70c6/tumblr_moykw0Zr8p1sxql3bo1_500.gif" width="20" height="25">&nbsp;&nbsp; GitHub Stats</summary>
+   
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantalion-dev&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantalion-dev&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+
+</details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+  <!--- <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> ---> 
+  <img src="http://31.media.tumblr.com/bfc78e953e1a40ec67b98dd8ef926ceb/tumblr_mkvut0EDHD1r7tto1o1_500.gif" width="200" >
 </p>
 
 <p align="center">
